@@ -1,5 +1,5 @@
 import pandas as pd
-impprt numpy as np
+import numpy as np
 
 data = {
     'Age': [25, 30, 22, 28, 35, 40, 29, 31, 27, 33],
